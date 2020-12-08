@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CustomizableTabBar"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "AIBDesignable UITabBar with background customisation"
 
   spec.description  = <<-DESC
