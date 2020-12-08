@@ -35,7 +35,7 @@ If you want to set a view for the background, eg. a VisualEffectView with blur, 
 
 ![Alt Text](https://github.com/jonathan-gomes/CustomizableTabBar/blob/main/files/vid03.gif)
 
-In that case, you won't be able to see the view applied in the Iterface Builder, only in runtime
+In that case, you won't be able to see the view applied in the Interface Builder, only in runtime
 ![Alt Text](https://github.com/jonathan-gomes/CustomizableTabBar/blob/main/files/sc01.png)
 
 	
