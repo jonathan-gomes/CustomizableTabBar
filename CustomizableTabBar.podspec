@@ -12,7 +12,7 @@ IBDesignable UITabBar with background customisation.
   spec.license      = { :type => "GNU", :file => "LICENSE" }
   spec.author       = { "jonathangomes" => "jonathangomes.ti@gmail.com" }
 
-  spec.ios.deployment_target = "12.1"
+  spec.ios.deployment_target = "11"
   spec.swift_version = "5.0"
 
   spec.source        = { :git => "https://github.com/jonathan-gomes/CustomizableTabBar.git", :branch => "master", :tag => "#{spec.version}" }
